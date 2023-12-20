@@ -1,6 +1,6 @@
 # Prerequisites
 
-#Prerequisitessssssss
+#Prerequisitesssssssss
 
 - JDK 11
 - Maven 3
